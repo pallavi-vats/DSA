@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/pallavi-vats/DSA/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pallavi-vats/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pallavi-vats/DSA/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
