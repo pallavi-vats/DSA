@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pallavi-vats/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pallavi-vats/DSA/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/pallavi-vats/DSA/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/pallavi-vats/DSA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pallavi-vats/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1580-shuffle-the-array](https://github.com/pallavi-vats/DSA/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/pallavi-vats/DSA/tree/master/1635-number-of-good-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pallavi-vats/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/pallavi-vats/DSA/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/pallavi-vats/DSA/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/pallavi-vats/DSA/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pallavi-vats/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/pallavi-vats/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pallavi-vats/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-vats/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/pallavi-vats/DSA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pallavi-vats/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pallavi-vats/DSA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pallavi-vats/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 ## Divide and Conquer
 |  |
