@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/pallavi-vats/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1580-shuffle-the-array](https://github.com/pallavi-vats/DSA/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/pallavi-vats/DSA/tree/master/1635-number-of-good-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pallavi-vats/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pallavi-vats/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/pallavi-vats/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pallavi-vats/DSA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pallavi-vats/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pallavi-vats/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pallavi-vats/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/pallavi-vats/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/pallavi-vats/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-vats/DSA/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pallavi-vats/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pallavi-vats/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
