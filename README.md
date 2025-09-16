@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pallavi-vats/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pallavi-vats/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/pallavi-vats/DSA/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/pallavi-vats/DSA/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pallavi-vats/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pallavi-vats/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/pallavi-vats/DSA/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/pallavi-vats/DSA/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/pallavi-vats/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/pallavi-vats/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-vats/DSA/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/pallavi-vats/DSA/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
