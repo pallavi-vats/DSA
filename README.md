@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pallavi-vats/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/pallavi-vats/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pallavi-vats/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pallavi-vats/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pallavi-vats/DSA/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/pallavi-vats/DSA/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pallavi-vats/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-vats/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pallavi-vats/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pallavi-vats/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pallavi-vats/DSA/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pallavi-vats/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/pallavi-vats/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
